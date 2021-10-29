@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1635467623 source:c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"fecha.h"
+
+1635452363 source:c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"marca.h"
+
+1635479423 source:c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebook.h"
+	"marca.h"
+	"tipo.h"
+
+1635479925 source:c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"servicio.h"
+	"marca.h"
+
+1635452719 source:c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"tipo.h"
+
+1635480184 source:c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebook.h"
+	"marca.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"fecha.h"
+
+1635481167 source:c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"notebook.h"
+	"marca.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+
+1635478739 c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\notebook.h
+	"servicio.h"
+	"marca.h"
+	"tipo.h"
+
+1635474379 c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\marca.h
+
+1634945763 c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\tipo.h
+
+1635474431 c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\servicio.h
+
+1635467654 c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\fecha.h
+
+1635477293 c:\users\ana\desktop\ger\facultad\parcial1 german molinari\parcial.1.germanmolinari\trabajo.h
+	"fecha.h"
+	"notebook.h"
+
